@@ -1,16 +1,12 @@
-### Hi there 👋
+#A Simple, Fast and Minimal Browser Providing Following Features for Free:-
+⦿ Supports 4K Media Playing.
+⦿ Unique QR-Website Sharing.
+⦿ Extra Lightweight for Users having Old Phones or Slow Internet.
+⦿ Uses DuckDuckGo API for Search Results.
+⦿ Maintains your Privacy by not collecting any type of Data.
+⦿ Clears Browsing History and Cookies after every Session.
+⦿ Works Under a Browsing Frame to avoid disclosing User's Device Details.
+⦿ Automatic Trackers Blocking.
+⦿ VPN Detecting Service.
 
-<!--
-**aerobrowser/aerobrowser** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#MadeinIndia #ProudlyIndian #VandeMataram
